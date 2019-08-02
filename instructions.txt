@@ -1,14 +1,5 @@
 GOOD LUCK GUYS
 
-1- Create a branch with the name of your task
-2- Create a file with the same name as your task, and a file named config. 
-3- Ignore config.txt
-4- Merge that branch to master
-5- Delete the branch that you created
-6- Push your task as soon as you finish.
-7- Copy the branch farewell
-8- Create a file using your name, and write "I love git" in it.
-9-Then push to that branch
-10- Update the project board
+
  
 
